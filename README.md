@@ -15,7 +15,7 @@ This page include the code for html, there are 2 section in the code one to cont
 
 There are 6 servo to control the arm of the robot thats why there are 6 range sliders, each slider has values that ranges between 0 and 180, also there is two buttons one for saving the values from the range sliders to the database at mySQL and the other is to display the values in seprate page.
 
-<div><img src="./robotarmcode.png" width="450" height="350" title="robotarmcode">
+<div><img src="./robotArmCode.png" width="450" height="350" title="robotarmcode">
 <img src="./buttons.png" width="450" height="350" title="buttons"></div>
 
 
