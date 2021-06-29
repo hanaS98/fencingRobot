@@ -48,6 +48,6 @@ This is the robot arm database file.
 #### 6. robotbase.sql:
 
 This is the robot base database file.
-<p><img src="./basedatabase.png" width="700" height="250" title="basedatabase"></p>
+<p><img src="./basedatabase.png" width="450" height="200" title="basedatabase"></p>
 
 
