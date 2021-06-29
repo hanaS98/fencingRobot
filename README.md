@@ -43,11 +43,11 @@ This page retrieves the last row in the database of the robot base and displays 
 #### 5. robotcontroller.sql:
 
 This is the robot arm database file.
-<p><img src="./armdatabase.png" width="450" height="200" title="armdatabase"></p>
+<p><img src="./database.png" width="450" height="200" title="armdatabase"></p>
 
 #### 5. robotbase.sql:
 
 This is the robot base database file.
-<p><img src="./basedatabase.png" width="450" height="200" title="basedatabase"></p>
+<p><img src="./basedatabase.png" width="700" height="250" title="basedatabase"></p>
 
 
