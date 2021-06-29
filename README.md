@@ -1,7 +1,7 @@
 # * Control Panel for fencing Robot * 
 
 This repository is about an interface to control a fencing robot.
-<p><img src="./interface.png" width="400" height="700" title="interface"></p>
+<p><img src="./interface.png" width="400" height="600" title="interface"></p>
 
  ## Description 
 <p>This project is an interface of a control panel made to move fencing robot arm and base.</p>
@@ -19,5 +19,5 @@ There are 6 servo to control the arm of the robot thats why there are 6 range sl
 *The robot base section:
 There are 5 buttons each button move the base to sepcific direction and the the direction is saved to the database.
 
-<img src="./robotbasecode.png" width="450" height="350" title="robotbasecode">
+<img src="./robotbasecode.png" width="450" height="300" title="robotbasecode">
 
